@@ -17,6 +17,11 @@ Welcome to my self-driving car machine learning project! This project uses the N
 - Image preprocessing using OpenCV
 - Image steering angle prediction
 - TensorFlow GPU acceleration
+- Use Udacity Simulator for training and testing or clone data from here: 
+
+```
+git clone https://github.com/rslim087a/track
+```
 
 ---
 
